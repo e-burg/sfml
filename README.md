@@ -1,2 +1,1 @@
 # sfml
-# учебные материалы skillfactory
